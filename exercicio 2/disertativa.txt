@@ -1,0 +1,18 @@
+c) Programação orientada a objetos (POO)
+
+Estrutura e interação das entidades do sistema: A programação orientada a objetos permite modelar as entidades do 
+sistema (Livros, Autores, Usuários, Empréstimos) como objetos com propriedades e métodos. Cada entidade pode ser 
+representada por uma classe, facilitando a organização e a relação entre elas, como a associação entre livros e 
+autores ou entre usuários e empréstimos.
+
+Reuso: A POO promove o reuso de código através de herança e composição. Por exemplo, uma classe base Pessoa poderia 
+ser usada para criar classes Autor e Usuário, reutilizando atributos e métodos comuns.
+
+Facilidade na evolução do sistema: A estrutura modular da POO facilita a manutenção e a evolução do sistema. Novas 
+funcionalidades podem ser adicionadas através de novas classes ou pela extensão das classes existentes, sem necessidade 
+de grandes reestruturações no código existente.
+
+Eficiência, dado o cenário apresentado: No contexto de um sistema de gerenciamento de biblioteca, onde há muitas 
+entidades inter-relacionadas, a POO permite uma modelagem mais natural e alinhada com o domínio do problema. 
+Isso resulta em um código mais claro, modular e fácil de manter, contribuindo para a eficiência no desenvolvimento 
+e na manutenção do sistema.
